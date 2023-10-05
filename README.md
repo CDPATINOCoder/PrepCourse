@@ -1,2 +1,1 @@
-# PrepCourse
-Este es un repositorio de prueba del modulo 2 del prepcourse de henry
+Prueba de como clonar mi carpetad desde github a mi escritorio
